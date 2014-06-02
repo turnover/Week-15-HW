@@ -29,3 +29,5 @@ public class Main
     System.out.println("Task has begun. The main has ended.");
   }
 }
+
+// Good job...please also check examples in slide 43-52 (W15-Part 2) to see how to share resources.
